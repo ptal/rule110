@@ -10,6 +10,6 @@ Make sure your code compile with this command before submitting for review.
 
 For debugging your code, you can compile with this command:
 ```
-g++ rule110.cpp -Wall -Werror -Wextra -Wpedantic -std=c++26 -g -o rule110
+g++ rule110.cpp -Wall -Wextra -Wpedantic -std=c++26 -g -o rule110
 ```
 
